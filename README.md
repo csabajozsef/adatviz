@@ -1,4 +1,3 @@
-# adatviz
 ### Data visualization class project in 2022/1
 
 Dataset: https://snap.stanford.edu/data/twitch_gamers.html
